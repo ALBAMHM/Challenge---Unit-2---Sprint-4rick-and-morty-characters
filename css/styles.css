@@ -73,9 +73,19 @@ table {
 }
 
 ul {  
-  padding-top: 100px;
+  padding-left: 400px;
   list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 50px;
+  justify-content: center;
 }
 
+li{
+  padding:40px;
+  justify-content: center;
+  justify-items: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 
 
